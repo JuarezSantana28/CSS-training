@@ -1,0 +1,43 @@
+body {
+  position: absolute;
+}
+
+.left-square-up {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  position: relative;
+  bottom: 0.498rem;
+  right: 0.3rem;
+}
+
+.left-square-down {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  position: relative;
+  top: 34.2rem;
+  right: 0.3rem;
+}
+
+.right-square-up {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  position: relative;
+  bottom: 13rem;
+  left: 83rem;
+}
+
+.right-square-down {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  position: relative;
+  top: 21.6rem;
+  left: 83rem;
+}
